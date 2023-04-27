@@ -18,6 +18,9 @@
     "yargs-parser": ">=13.1.2"
   },
   "dependencies": {
-    "html-literal": "^1.1.0"
+    "dash": "^3.23.2",
+    "html-literal": "^1.1.0",
+    "lo": "^0.41.0",
+    "navigo": "^8.11.1"
   }
 }

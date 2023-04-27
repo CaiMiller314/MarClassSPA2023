@@ -1,5 +1,5 @@
 import html from "html-literal";
-
+import dogPic from "../../assets/img/";
 export default () => html`
   <section id="bio">
     <h2>Vivamus ac justo eu nisi</h2>
